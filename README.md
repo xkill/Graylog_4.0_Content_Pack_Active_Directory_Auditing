@@ -1,7 +1,7 @@
 # Active Directory Auditing Content Pack
-
+It's  reighnman 's Active Directory Auditing Content Pack for Graylog 2.x and updated and tested for Graylog 3 
+You can find original content pask at https://marketplace.graylog.org/addons/750b88ea-67f7-47b1-9a6c-cbbc828d9e25
 Tested with nxLog/Windows 2012R2 Domain Controllers/Graylog 3.0
-
 
 This content pack provides several useful dashboards for auditing Active Directory events:
 * DNS Object Summary - DNS Creations, Deletions
