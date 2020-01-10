@@ -1,5 +1,5 @@
 # Active Directory Auditing Content Pack
-It's  reighnman 's Active Directory Auditing Content Pack for Graylog 2.x and updated and tested for Graylog 3 
+It's  reighnman 's & aydnyldrm 's Active Directory Auditing Content Pack for Graylog 2.x and updated and tested for Graylog 3 
 You can find original content pack at https://marketplace.graylog.org/addons/750b88ea-67f7-47b1-9a6c-cbbc828d9e25
 Tested with nxLog/Windows Server 2012, nxLog/Windows Server 2012R2, nxLog/Windows Server 2016 Domain Controllers/Graylog 3.1.3
 
